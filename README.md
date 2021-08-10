@@ -1,5 +1,6 @@
 # PV_Generator
-This application was created using PHP,HTML,CSS,JavaScript to generate exams transcripts for use in Faculty of Medicine and Pharmacy of Oujda
+This application was created using PHP,HTML,CSS,JavaScript to generate exams transcripts for use in Faculty of Medicine and Pharmacy of Oujda.
+This application generates a transcript (pv) for each local, and generates transcripts cover for each university as well.
 Main Page:
 ![Capture](https://user-images.githubusercontent.com/64654197/128880437-9e2398f9-7558-4815-abe4-e225cda46117.PNG)
 You must select school year,either "concours" or "examens" and then select one or multiple local (classroom in one of the universities).
